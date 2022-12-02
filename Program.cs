@@ -17,4 +17,15 @@ int SizeArray(string[] array,int max)
     return count;
 }
 
-
+void FillArray(string[] arrayIn, string[] arrayOut)
+{
+    int count = 0;
+    for(int i = 0; i <= arrayIn.Length; i++)
+    {
+        if(arrayIn[i].Length <= 3)
+        {
+            arrayOut[count] = arrayIn[i];
+            count++;
+        }
+    }
+}
