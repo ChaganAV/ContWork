@@ -1,0 +1,15 @@
+C:\Projects\Code\Csharp\ContWork\bin\Debug\net6.0\ContWork.exe
+C:\Projects\Code\Csharp\ContWork\bin\Debug\net6.0\ContWork.deps.json
+C:\Projects\Code\Csharp\ContWork\bin\Debug\net6.0\ContWork.runtimeconfig.json
+C:\Projects\Code\Csharp\ContWork\bin\Debug\net6.0\ContWork.dll
+C:\Projects\Code\Csharp\ContWork\bin\Debug\net6.0\ContWork.pdb
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ContWork.csproj.AssemblyReference.cache
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ContWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ContWork.AssemblyInfoInputs.cache
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ContWork.AssemblyInfo.cs
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ContWork.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ContWork.dll
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\refint\ContWork.dll
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ContWork.pdb
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ContWork.genruntimeconfig.cache
+C:\Projects\Code\Csharp\ContWork\obj\Debug\net6.0\ref\ContWork.dll
